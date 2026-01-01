@@ -8,7 +8,7 @@ An automobile manufacturer has developed prototypes for a new vehicle. Before la
 
 The objective is to use clustering methods to find the most distinctive vehicle groups, summarizing existing market patterns and providing actionable insights for product development and strategy.
 
----
+⚠️ Note: This project is for educational purposes and does not represent production-level deployment.
 
 ## 📂 Dataset
 
@@ -24,7 +24,6 @@ The objective is to use clustering methods to find the most distinctive vehicle 
   - `fuel_cap` – Fuel Capacity  
   - `mpg` – Miles per Gallon  
 
----
 
 ## ⚙️ Methods & Workflow
 
@@ -34,7 +33,6 @@ The objective is to use clustering methods to find the most distinctive vehicle 
 - **Evaluation:** Silhouette score to assess cluster cohesion and separation  
 - **Comparison:** Determined best clustering approach based on silhouette score  
 
----
 
 ## 🏆 Key Results & Insights
 
@@ -54,7 +52,6 @@ The objective is to use clustering methods to find the most distinctive vehicle 
 - Hierarchical clustering outperformed K-Means, indicating better-separated and more cohesive clusters.
 - **Impact:** Identifies competitive vehicle groups more accurately, supporting strategic decisions.
 
----
 
 ## 🛠️ Tools & Libraries
 
@@ -63,13 +60,11 @@ The objective is to use clustering methods to find the most distinctive vehicle 
 - Pandas, NumPy  
 - Matplotlib, Seaborn  
 
----
 
 ## ✅ Summary
 
 Hierarchical clustering with Average linkage provides the most meaningful segmentation of vehicles, offering a practical framework for competitive analysis and market positioning.
 
----
 
 ## 🚀 How to Run
 
